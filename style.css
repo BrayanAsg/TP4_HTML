@@ -1,0 +1,32 @@
+body{
+    background-image: linear-gradient(#CCDAE0 , #EDF2F4 );
+}
+#img{
+   text-align: center;
+   border: 2px; 
+
+}
+#liens{
+    text-align: center;
+    
+}
+section{
+    border-color: black;
+    border-style:solid ;
+    border-width: 1px;
+}
+h1{
+    color: #EF233C;
+    font-style:impact;
+    font-size: 70px;
+}
+#blog {
+    color: red;
+}
+h2{
+    text-decoration: underline;
+    font-style: inherit;
+    text-decoration-style: dashed;
+}
+
+
